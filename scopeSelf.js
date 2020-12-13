@@ -16,3 +16,10 @@ var myCar = {
 
 myCar.logColor();
 
+//In logColor - this.color: Blue
+//In logColor - self.color: Blue
+
+//In IIFE - this.color: undefined
+//In IIFE - self.color: Blue
+
+
