@@ -12,7 +12,7 @@ function vowels(str) {
 	return matches ? matches.length : 0;
 }
 
-module.exports = vowels;
+
 
 // function vowels(str) {
 //   let count = 0;

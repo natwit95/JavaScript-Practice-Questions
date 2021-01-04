@@ -25,4 +25,3 @@ function validate(node, min = null, max = null) {
 	return true;
 }
 
-module.exports = validate;

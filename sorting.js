@@ -63,4 +63,4 @@ function merge(left, right) {
 	return [...results, ...left, ...right];
 }
 
-module.exports = { bubbleSort, selectionSort, mergeSort, merge };
+
